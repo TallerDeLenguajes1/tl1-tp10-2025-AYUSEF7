@@ -1,0 +1,15 @@
+D:\Maty-Facultad\Taller1\TP-10\tl1-tp10-2025-Mattzone08\Tareas\bin\Debug\net9.0\Tareas.exe
+D:\Maty-Facultad\Taller1\TP-10\tl1-tp10-2025-Mattzone08\Tareas\bin\Debug\net9.0\Tareas.deps.json
+D:\Maty-Facultad\Taller1\TP-10\tl1-tp10-2025-Mattzone08\Tareas\bin\Debug\net9.0\Tareas.runtimeconfig.json
+D:\Maty-Facultad\Taller1\TP-10\tl1-tp10-2025-Mattzone08\Tareas\bin\Debug\net9.0\Tareas.dll
+D:\Maty-Facultad\Taller1\TP-10\tl1-tp10-2025-Mattzone08\Tareas\bin\Debug\net9.0\Tareas.pdb
+D:\Maty-Facultad\Taller1\TP-10\tl1-tp10-2025-Mattzone08\Tareas\obj\Debug\net9.0\Tareas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Maty-Facultad\Taller1\TP-10\tl1-tp10-2025-Mattzone08\Tareas\obj\Debug\net9.0\Tareas.AssemblyInfoInputs.cache
+D:\Maty-Facultad\Taller1\TP-10\tl1-tp10-2025-Mattzone08\Tareas\obj\Debug\net9.0\Tareas.AssemblyInfo.cs
+D:\Maty-Facultad\Taller1\TP-10\tl1-tp10-2025-Mattzone08\Tareas\obj\Debug\net9.0\Tareas.csproj.CoreCompileInputs.cache
+D:\Maty-Facultad\Taller1\TP-10\tl1-tp10-2025-Mattzone08\Tareas\obj\Debug\net9.0\Tareas.sourcelink.json
+D:\Maty-Facultad\Taller1\TP-10\tl1-tp10-2025-Mattzone08\Tareas\obj\Debug\net9.0\Tareas.dll
+D:\Maty-Facultad\Taller1\TP-10\tl1-tp10-2025-Mattzone08\Tareas\obj\Debug\net9.0\refint\Tareas.dll
+D:\Maty-Facultad\Taller1\TP-10\tl1-tp10-2025-Mattzone08\Tareas\obj\Debug\net9.0\Tareas.pdb
+D:\Maty-Facultad\Taller1\TP-10\tl1-tp10-2025-Mattzone08\Tareas\obj\Debug\net9.0\Tareas.genruntimeconfig.cache
+D:\Maty-Facultad\Taller1\TP-10\tl1-tp10-2025-Mattzone08\Tareas\obj\Debug\net9.0\ref\Tareas.dll
